@@ -11,7 +11,7 @@
 
     <body>
 	    <header>
-		    <a href = "template.html" id="top"> 
+		    <a href = "psyga020.github.io/index.html" id="top"> 
 		    <h1> information about me</h1>
 		    </a>
 		    </header>
