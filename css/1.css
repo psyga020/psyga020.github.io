@@ -1,0 +1,53 @@
+header{
+	margin: 10px 0;
+	font-size:1.75em;
+	font-weight: normal;
+	line-height:0.5;
+	text-align: center;
+	background-color:#ffffcc;
+	color:#000000;
+}
+
+#top{
+	text-align: center;
+	padding:30px;
+}
+h1{
+	margin: 10px 0;
+	font-size:1.75em;
+	font-weight: normal;
+	line-height:0.5;
+	text-align:center;
+}
+img{
+	max-height:100%;
+}
+#me{
+	max-width:940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+.photo1{
+	float:left;
+	width:200px;
+	height:195px;
+	margin:20px;
+	border-radius:100px;
+}
+
+.photo2{
+	float:center;
+	width:200px;
+	height:195px;
+	margin:20px;
+	border-radius: 100px;
+}
+
+.photo9{
+	float:right;
+	width:200px;
+	height:195px;
+	margin:20px;
+	border-radius:100px;
+}
