@@ -6,12 +6,12 @@
      <meta charset="utf-8"/>
  	<title>A Web Page</title>
 	<meta name = "view"content="width=device-width, initial-scale =1.0"/>
-	<link href = " psyga020.github.io/css/1.css" rel = "stylesheet" type = "text/css"/ >      
+	<link href = "css/1.css" rel = "stylesheet" type = "text/css"/ >      
 	</head>
 
     <body>
 	    <header>
-		    <a href = "template.html" id="top"> 
+		    <a href = "index.html" id="top"> 
 		    <h1> information about me</h1>
 		    </a>
 		    </header>
