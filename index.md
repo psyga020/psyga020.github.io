@@ -17,7 +17,7 @@
 		    </header>
 	    <div id ="me">
 		    <br>
-		   <img src="picture/1.jpg" class = "photo1"/>	
+		   <img src="psyga020.github.io/picture/1.jpg" class = "photo1"/>	
 
 		    <p>
 			My name is Rui Xue, and student of Universaity of Nebreaska at Omaha. Major is Management Information System and I am from China. I am a crazy game fan, I strong suggest the The Legend of Zelda: Breath of the Wild which is from Nitendo. Pretty free when you playing this game and you goona can found something suprised when you hanging around in this game. 
@@ -27,7 +27,7 @@
 	</p>
 	<br>
 		    <a href = "template2.html">
-		    <img src="picture/2.jpg" class = "photo2"/></a>
+		    <img src="psyga020.github.io/picture/2.jpg" class = "photo2"/></a>
 		    <p>
 		    click the photo to get communication</p>
 		    </div>
