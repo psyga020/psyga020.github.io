@@ -1,13 +1,17 @@
+<!DOCTYPE HTML>
+
 <html lang="en">
 
      <head>
  	<title>A Web Page</title>
-	
+ 	<meta charset="utf-8"/>
+	<meta name = "view"content="width=device-width, initial-scale =1.0">
+	<link href = " psyga020.github.io/css/1.css" rel = "stylesheet" type = "text/css"/ >      
 	</head>
 
     <body>
 	    <header>
-		    <a href = "psyga020.github.io/index.html" id="top"> 
+		    <a href = "template.html" id="top"> 
 		    <h1> information about me</h1>
 		    </a>
 		    </header>
@@ -31,5 +35,7 @@
 
 
 </html>
+
+
 
 
