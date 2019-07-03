@@ -1,6 +1,6 @@
-<!DOCTYPE HTML>
+     <!DOCTYPE HTML>
 
-<html lang="en">
+    <html lang="en">
 
      <head>
  	<title>A Web Page</title>
@@ -34,7 +34,7 @@
     </body>
 
 
-</html>
+    </html>
 
 
 
