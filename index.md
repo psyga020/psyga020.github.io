@@ -1,12 +1,9 @@
-<!DOCTYPE HTML>
-
 <html lang="en">
 
      <head>
  	<title>A Web Page</title>
  	<meta charset="utf-8"/>
-	<meta name = "view"content="width=device-width, initial-scale =1.0"/>
-	<link href = "psyga020.github.io/css/1.css" rel = "stylesheet" type = "text/css"/>
+	
 	</head>
 
     <body>
