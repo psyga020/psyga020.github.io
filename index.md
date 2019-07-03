@@ -1,6 +1,5 @@
     <!DOCTYPE HTML>
-
-<html lang="en">
+    <html lang="en">
 
      <head>
  	<title>A Web Page</title>
