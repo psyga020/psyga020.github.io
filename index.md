@@ -2,7 +2,6 @@
 
      <head>
  	<title>A Web Page</title>
- 	<meta charset="utf-8"/>
 	
 	</head>
 
